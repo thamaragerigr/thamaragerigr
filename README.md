@@ -5,7 +5,7 @@
    <p>I'm a Junior Front End who really likes ✨emojis✨ If you've got any cool idea or wanna talk about code stuff 👀 @me on <a target="_blank" href="linkedin.com/in/thamaragerigr">Twitah</a>!</p>
   </sub>
 
-  <a class="header-badge" target="_blank" href="linkedin.com/in/thamaragerigr">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/thamaragerigr/">
      <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   
