@@ -15,4 +15,4 @@
 
 <div>
 
-<!-- ![Readme](./Readme.png) -->
+![Readme](https://github.com/thamaragerigr/thamaragerigr/blob/master/Readme.png)
