@@ -1,17 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <h1> Hello world!👋</h1>
 
+  <a class="header-badge" target="_blank" href="linkedin.com/in/thamaragerigr">
+     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  
+  <a class="header-badge" target="_blank" href="https://twitter.com/gerig_thamara">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gerig_thamara?style=social">
+  </a>
 
-<!--
-**thamaragerigr/thamaragerigr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <sub>
+   <p>I'm a Junior Front End who really likes ✨emojis✨ If you've got any cool idea or wanna talk about code stuff 👀 @me on <a target="_blank" href="linkedin.com/in/thamaragerigr">Twitah</a>!</p>
+  </sub>
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Readme](./Readme.png)
