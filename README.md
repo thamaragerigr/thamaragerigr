@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[ReadMe](./Readme.png)
+![ReadMe](./Readme.png)
 
 <!--
 **thamaragerigr/thamaragerigr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
