@@ -6,7 +6,7 @@
   </sub>
 
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/thamaragerigr/">
-     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   
   <a class="header-badge" target="_blank" href="https://twitter.com/gerig_thamara">
