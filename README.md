@@ -1,4 +1,4 @@
-![Readme](https://github.com/thamaragerigr/thamaragerigr/blob/master/Cover.png)
+![Readme](https://github.com/thamaragerigr/thamaragerigr/blob/master/CoverImage.png)
 
 <div align="center">
   <h1> Hello world!👋</h1>
@@ -17,4 +17,4 @@
 <div>
 
 
-![Readme](https://github.com/thamaragerigr/thamaragerigr/blob/master/Cover.png)
+![Readme](https://github.com/thamaragerigr/thamaragerigr/blob/master/CoverImage.png)
